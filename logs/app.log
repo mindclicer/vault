@@ -1125,3 +1125,44 @@ Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConne
 Session ID: 547b601de378a4cec65641a98436d5d4
 *** Element info: {Using=xpath, value=//*[@class="flowBox"]/table/tbody2/tr/td[2]/a/img}
 2018-01-27 at 17:25:04 CST INFO  traning1202.DriverUtils 113 stopService - driver服务停止
+2018-02-25 at 16:25:37 CST INFO  com.yyf.ecshop.tests.DriverUtils 39 <clinit> - 获取系统属性yyf.selenium.browserchrome
+2018-02-25 at 16:25:39 CST INFO  com.yyf.ecshop.tests.DriverUtils 74 <clinit> - driver服务启动
+2018-02-25 at 16:25:57 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:25:58 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="ECS_MEMBERZONE"]/a[1]元素，已找到
+2018-02-25 at 16:25:58 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:25:58 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找username元素，已找到
+2018-02-25 at 16:25:59 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:25:59 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找password元素，已找到
+2018-02-25 at 16:25:59 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:25:59 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找submit元素，已找到
+2018-02-25 at 16:26:00 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:00 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="boxCenterList RelaArticle"]/div/p元素，已找到
+2018-02-25 at 16:26:10 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:10 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="ECS_MEMBERZONE"]/a[1]元素，已找到
+2018-02-25 at 16:26:12 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:12 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找username元素，已找到
+2018-02-25 at 16:26:12 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:12 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找password元素，已找到
+2018-02-25 at 16:26:12 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:12 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找submit元素，已找到
+2018-02-25 at 16:26:14 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:14 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="boxCenterList RelaArticle"]/div/p元素，已找到
+2018-02-25 at 16:26:22 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:22 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="ECS_MEMBERZONE"]/a[1]元素，已找到
+2018-02-25 at 16:26:23 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:23 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找username元素，已找到
+2018-02-25 at 16:26:23 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:23 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找password元素，已找到
+2018-02-25 at 16:26:23 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:23 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找submit元素，已找到
+2018-02-25 at 16:26:31 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:31 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="ECS_MEMBERZONE"]/a[1]元素，已找到
+2018-02-25 at 16:26:32 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:32 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找username元素，已找到
+2018-02-25 at 16:26:32 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:32 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找password元素，已找到
+2018-02-25 at 16:26:32 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:32 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找submit元素，已找到
+2018-02-25 at 16:26:33 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+2018-02-25 at 16:26:33 CST INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="boxCenterList RelaArticle"]/div/p元素，已找到
+2018-02-25 at 16:26:34 CST INFO  com.yyf.ecshop.tests.DriverUtils 109 stopService - driver服务停止
