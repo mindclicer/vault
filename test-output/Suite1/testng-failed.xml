@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <parameter name="parameter2" value="ronghui"/>
+  <parameter name="parameter1" value="yyf"/>
+  <listeners>
+    <listener class-name="com.yyf.ecshop.data.MytestListern1"/>
+    <listener class-name="com.yyf.ecshop.data.Mytestlistener2"/>
+  </listeners>
+  <test name="testdemo1(failed)">
+    <classes>
+      <class name="com.yyf.ecshop.tests.ShoppingTest1">
+        <methods>
+          <include name="initDriver"/>
+          <include name="closeService"/>
+          <include name="quitDriver"/>
+          <include name="testShopping_success" invocation-numbers="0 0"/>
+        </methods>
+      </class> <!-- com.yyf.ecshop.tests.ShoppingTest1 -->
+    </classes>
+  </test> <!-- testdemo1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

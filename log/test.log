@@ -1,0 +1,75 @@
+17:24:11.792 INFO  traning1202.DriverUtils 43 <clinit> - 获取系统属性yyf.selenium.browserchrome
+17:24:12.572 INFO  traning1202.DriverUtils 78 <clinit> - driver服务启动
+17:24:22.606 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:22.680 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="ECS_MEMBERZONE"]/a[1]元素，已找到
+17:24:23.206 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:23.262 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找username元素，已找到
+17:24:23.401 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:23.449 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找password元素，已找到
+17:24:23.600 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:23.651 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找submit元素，已找到
+17:24:24.079 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 29 findElements - 开始查找元素集合
+17:24:27.392 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 32 findElements - 通过xpath方法查找//div [(text()="2F 数码时尚")]/../div[4]/div[2]/div/a元素，已找到8个
+17:24:28.752 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:28.804 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:28.950 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:28.982 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:29.033 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:29.063 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:29.135 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:29.167 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:29.194 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:29.236 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="goods_style_name"]元素，已找到
+17:24:29.267 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:29.298 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="goods_style_name"]元素，已找到
+17:24:29.338 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:29.373 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="td1"]/a/img元素，已找到
+17:24:29.510 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:39.642 ERROR com.yyf.ecshop.data.WrappedRemoteWebDriver 49 findElement - 通过xpath方法查找//*[@class="flowBox"]/table/tbody2/tr/td[2]/a/img元素时发生异常，原因：no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="flowBox"]/table/tbody2/tr/td[2]/a/img"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DELL', ip: '192.168.230.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: com.yyf.ecshop.data.WrappedRemoteWebDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\delll\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: eefecca9ab28ab90aa24696a8869ae44
+*** Element info: {Using=xpath, value=//*[@class="flowBox"]/table/tbody2/tr/td[2]/a/img}
+17:24:46.727 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:46.824 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="ECS_MEMBERZONE"]/a[1]元素，已找到
+17:24:47.383 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:47.428 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找username元素，已找到
+17:24:47.589 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:47.631 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找password元素，已找到
+17:24:47.763 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:47.810 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过name方法查找submit元素，已找到
+17:24:48.199 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 29 findElements - 开始查找元素集合
+17:24:51.563 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 32 findElements - 通过xpath方法查找//div [(text()="2F 数码时尚")]/../div[4]/div[2]/div/a元素，已找到8个
+17:24:52.321 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:52.386 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:52.517 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:52.560 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:52.610 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:52.635 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:52.712 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:52.741 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@id="number"]元素，已找到
+17:24:52.763 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:52.803 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="goods_style_name"]元素，已找到
+17:24:52.850 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:52.881 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="goods_style_name"]元素，已找到
+17:24:52.917 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:24:52.955 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 47 findElement - 通过xpath方法查找//*[@class="td1"]/a/img元素，已找到
+17:24:53.091 INFO  com.yyf.ecshop.data.WrappedRemoteWebDriver 43 findElement - 开始查找元素
+17:25:03.143 ERROR com.yyf.ecshop.data.WrappedRemoteWebDriver 49 findElement - 通过xpath方法查找//*[@class="flowBox"]/table/tbody2/tr/td[2]/a/img元素时发生异常，原因：no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="flowBox"]/table/tbody2/tr/td[2]/a/img"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DELL', ip: '192.168.230.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: com.yyf.ecshop.data.WrappedRemoteWebDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\delll\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 547b601de378a4cec65641a98436d5d4
+*** Element info: {Using=xpath, value=//*[@class="flowBox"]/table/tbody2/tr/td[2]/a/img}
+17:25:04.064 INFO  traning1202.DriverUtils 113 stopService - driver服务停止
