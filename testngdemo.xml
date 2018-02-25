@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1">
+    <parameter name="parameter1" value="yyf"></parameter>
+    <parameter name="parameter2" value="ronghui"></parameter>
+    <listeners>
+      <listener class-name="com.yyf.ecshop.data.MytestListern1"/> 
+      <listener class-name="com.yyf.ecshop.data.Mytestlistener2"/>    
+    </listeners>
+	<test name="testdemo1">	
+		<classes>
+			<class name="com.yyf.ecshop.tests.ShoppingTest1"></class>
+		</classes>
+	</test>
+</suite>
+
